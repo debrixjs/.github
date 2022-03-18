@@ -1,6 +1,6 @@
 <div align="center">
 
-![Debrix Banner](https://raw.githubusercontent.com/debrixjs/.github/main/assets/banner.svg)
+![Debrix Banner](https://raw.githubusercontent.com/debrixjs/assets/main/images/banner.svg)
 
 [Website](https://debrix.dev) · [Documentation](https://debrix.dev/docs) · [Roadmap](https://github.com/orgs/debrixjs/projects/1) · [Specification](https://debrix.dev/specification) · [debrix](https://npmjs.com/package/debrix) · [@debrix/compiler](https://npmjs.com/package/@debrix/compiler) · [@debrix/parser](https://npmjs.com/package/@debrix/parser)
 
