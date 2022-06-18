@@ -2,7 +2,7 @@
 
 [![Debrix Banner](https://raw.githubusercontent.com/debrixjs/assets/main/images/banner.svg)](https://debrix.dev)
 
-[Website](https://debrix.dev) · [Documentation](https://debrix.dev/docs) · [Roadmap](https://github.com/orgs/debrixjs/projects/1) · [Specification](https://debrix.dev/specification) · [debrix](https://npmjs.com/package/debrix) · [@debrix/compiler](https://npmjs.com/package/@debrix/compiler) · [@debrix/parser](https://npmjs.com/package/@debrix/parser)
+[Website](https://debrix.dev) · [Documentation](https://debrix.dev/docs) · [Roadmap](https://github.com/orgs/debrixjs/projects/1) · [Specification](https://debrix.dev/specification) · [Repository](https://github.com/debrixjs) · [Package](https://npmjs.com/package/debrix)
 
 </div>
 
