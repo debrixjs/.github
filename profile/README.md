@@ -1,6 +1,9 @@
 <div align="center">
-
-[![Debrix Banner](https://raw.githubusercontent.com/debrixjs/assets/main/images/banner.svg)](https://debrix.dev)
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debrixjs/assets/main/images/banner.dark.svg">
+  <img alt="Debrix Banner: Efficient progressive component-based Javascript library" src="https://raw.githubusercontent.com/debrixjs/assets/main/images/banner.svg">
+</picture>
 
 [Website](https://debrix.dev) · [Documentation](https://debrix.dev/docs) · [Roadmap](https://github.com/orgs/debrixjs/projects/1) · [Specification](https://debrix.dev/specification) · [Repository](https://github.com/debrixjs) · [Package](https://npmjs.com/package/debrix)
 
