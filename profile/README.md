@@ -5,8 +5,10 @@
   <img alt="Debrix Banner: Efficient progressive component-based Javascript library" src="https://raw.githubusercontent.com/debrixjs/assets/main/images/banner.svg">
 </picture>
 
-[Website](https://debrix.dev) · [Documentation](https://debrix.dev/docs) · [Roadmap](https://github.com/orgs/debrixjs/projects/1) · [Specification](https://debrix.dev/specification) · [Repository](https://github.com/debrixjs) · [Package](https://npmjs.com/package/debrix)
-
 </div>
 
-Debrix is a **progressive declarative component-based** library for building user interfaces for the web. Debrix compiles components into **efficient runtime bundles** optimized for **fast rendering and small sizes**, **without runtime processing**. Debrix's proxy provides the usage of **native object models** which can **progressively re-render** the dom, without virtual dom. Debrix is the solution to **efficient**, **decarative** and **maintainable** websites.
+Debrix is a MVVM library for building web user interfaces. Components are truly declarative and nativly reactive with a model. Debrix components are compiled into lightweight runtime code. Debrix progressivly re-renders parts of the DOM to stay in sync with the model without any processing (e.g. virtual dom). Components are explicit and simple to write, document, maintain and read.
+
+## 🚧 _UNDER DEVELOPMENT_ 🚧
+
+Debrix is far from being complete. The library is under active development. Most features are not implemented or tested yet and **will** break. Only use debrix is it's current state to experiment. Don't post the library in a forum or similar, I don't want the project to have much attention yet. Ideas and questions are very welcome under the [discussions](https://github.com/debrixjs/debrix/discussions). See the [contributing notice](#contributing-notice).
