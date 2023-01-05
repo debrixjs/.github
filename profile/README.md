@@ -14,4 +14,3 @@ Debrix provides a truly declarative way of building interactive user interfaces 
 https://playground.debrix.dev/
 
 Debrix is far from being complete. The library is under active development. Most features are not implemented or tested yet and **will** break. Only use debrix is it's current state to experiment. Don't post the library in a forum or similar, I don't want the project to have much attention yet. Ideas and questions are very welcome under the [discussions](https://github.com/debrixjs/debrix/discussions).
-![image](https://user-images.githubusercontent.com/47453366/210855123-f144a7ea-4d67-468f-a676-f3e029fee89d.png)
